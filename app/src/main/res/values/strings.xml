@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="score">Score 0/8</string>
+    <string name="question_number">1/8 Question</string>
+
+    <string name="question_1">What is the capital city of Bangladesh?</string>
+    <string name="question1_A">Chittagong</string>
+    <string name="question1_B">Delhi</string>
+    <string name="question1_C">Bangalore</string>
+    <string name="question1_D">Dhaka</string>
+    <string name="answer_1">Dhaka</string>
+
+
+    <string name="question_2">On which continent is Bangladesh located?</string>
+    <string name="question_2A">Aisa</string>
+    <string name="question_2B">Europe</string>
+    <string name="question_2C">Africa</string>
+    <string name="question_2D">South America</string>
+    <string name="answer_2">Aisa</string>
+
+
+    <string name="question_3">What is the main religion practiced in Bangladesh?</string>
+    <string name="question_3A"> Buddhism</string>
+    <string name="question_3B">Hinduism</string>
+    <string name="question_3C">Christianity</string>
+    <string name="question_3D"> Islam</string>
+    <string name="answer_3"> Islam</string>
+
+    <string name="question_4">Which two countries ruled the area that came to be known as Bangladesh in the second half of the 20th century?</string>
+    <string name="question_4A">China and Britain</string>
+    <string name="question_4B">India and Pakistan</string>
+    <string name="question_4C">Britain and Pakistan</string>
+    <string name="question_4D">Thailand and Burma</string>
+    <string name="answer_4">Britain and Pakistan</string>
+
+    <string name="question_5">What did Bangladesh become known as after its first session of Independence in 1947?</string>
+    <string name="question_5A">East Pakistan</string>
+    <string name="question_5B">West Pakistan</string>
+    <string name="question_5C">East India</string>
+    <string name="question_5D">East Burma</string>
+    <string name="answer_5">East Pakistan</string>
+
+    <string name="question_6">What year did Bangladesh finally become independent and gain the name it has today?</string>
+    <string name="question_6A"> 1971</string>
+    <string name="question_6B">1991</string>
+    <string name="question_6C">1871</string>
+    <string name="question_6D">1641</string>
+    <string name="answer_6">1971</string>
+
+    <string name="question_7">Who became Prime Minister of Bangladesh in 2001?</string>
+    <string name="question_7A">Begum Faria Haque</string>
+    <string name="question_7B">Sohel Rhaman</string>
+    <string name="question_7C">Mohammad Dim Emi</string>
+    <string name="question_7D">Begum Zia</string>
+    <string name="answer_7">Begum Zia</string>
+
+    <string name="question_8">What is the national flower of Bangladesh?</string>
+    <string name="question_8A"> Rose</string>
+    <string name="question_8B">Tulip</string>
+    <string name="question_8C">Orchid</string>
+    <string name="question_8D">Water Lily</string>
+    <string name="answer_8">Water Lily</string>
+    <string name="selctedoption">SelctedOption</string>
+    <string name="correctanswer">CorrectAnswer</string>
+</resources>
